@@ -1,5 +1,5 @@
-Faithful32 - Modded
-==========
+Faithful32-1.6.4
+================
 
 **Found this page via Google and looking for the vanilla pack?** www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1223254
 
